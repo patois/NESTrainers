@@ -1,0 +1,3 @@
+Examples for adding custom code to Nintendo Entertainment System ROMs.
+An IPS patcher (like IPSWin, Lunar IPS, ...) is needed to apply the included .ips patches.
+The resulting ROM file will not work on the real NES hardware but on emulators which support game trainers only.
